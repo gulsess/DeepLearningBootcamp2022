@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 import tensorflow as tf
 
 # image path
-img_path = "C:/Users/musta/Downloads/spectrograms/"
+img_path = "C:/Users/gulse/Downloads/spectrograms/"
 
 folder_list = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 
